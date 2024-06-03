@@ -1,0 +1,1326 @@
+{
+    "title": "DSM-5人格问卷（PID-5）",
+    "questions": [
+        {
+    "item": "1",
+    "english": "I don't get as much pleasure out of things as others seem to.",
+    "translation": "与其他人相比，我从事情中得到的乐趣不那么多。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "2",
+    "english": "Plenty of people are out to get me.",
+    "translation": "很多人都在针对我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "3",
+    "english": "People would describe me as reckless.",
+    "translation": "人们会说我鲁莽。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "4",
+    "english": "I feel like I act totally on impulse.",
+     "translation": "我感觉我完全是冲动行事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "5",
+    "english": "I often have ideas that are too unusual to explain to anyone.",
+    "translation": "我常常有一些难以向他人解释的奇特想法。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "6",
+    "english": "I lose track of conversations because other things catch my attention.",
+    "translation": "我会因为被其他事物吸引而对话题失去跟踪。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "7",
+    "english": "I avoid risky situations.",
+    "translation": "我避免危险的情况。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "8",
+    "english": "When it comes to my emotions, people tell me I'm a 'cold fish'.",
+    "translation": "在情感方面，人们说我是个'冷鱼'。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "9",
+    "english": "I change what I do depending on what others want.",
+    "translation": "我会根据别人的要求改变自己的行为。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "10",
+    "english": "I prefer not to get too close to people.",
+    "translation": "我倾向于不与人过于亲近。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "11",
+    "english": "I often get into physical fights.",
+    "translation": "我经常卷入身体冲突。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "12",
+    "english": "I dread being without someone to love me.",
+    "translation": "我害怕没有人爱我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "13",
+    "english": "Being rude and unfriendly is just a part of who I am.",
+    "translation": "粗鲁和不友好是我的一部分。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "14",
+    "english": "I do things to make sure people notice me.",
+    "translation": "我做事是为了让人注意到我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "15",
+    "english": "I usually do what others think I should do.",
+    "translation": "我通常会做别人认为我应该做的事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "16",
+    "english": "I usually do things on impulse without thinking about what might happen as a result.",
+    "translation": "我通常冲动行事，不考虑可能的后果。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "17",
+    "english": "Even though I know better, I can't stop making rash decisions.",
+    "translation": "尽管我知道更好的做法，我还是无法停止做出鲁莽的决定。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "18",
+    "english": "My emotions sometimes change for no good reason.",
+    "translation": "我的情绪有时无缘无故地变化。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "19",
+    "english": "I really don't care if I make other people suffer.",
+    "translation": "我真的不在乎自己是否让其他人受苦。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "20",
+    "english": "I keep to myself.",
+    "translation": "我保持独处。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "21",
+    "english": "I often say things that others find odd or strange.",
+    "translation": "我经常说一些别人觉得奇怪或怪异的话。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "22",
+    "english": "I always do things on the spur of the moment.",
+    "translation": "我总是临时起意做事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "23",
+    "english": "Nothing seems to interest me very much.",
+    "translation": "似乎没有什么能特别吸引我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "24",
+    "english": "Other people seem to think my behavior is weird.",
+    "translation": "其他人似乎认为我的行为很怪异。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "25",
+    "english": "People have told me that I think about things in a really strange way.",
+    "translation": "人们告诉我，我的思考方式真的很奇怪。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "26",
+    "english": "I almost never enjoy life.",
+    "translation": "我几乎从不享受生活。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "27",
+    "english": "I often feel like nothing I do really matters.",
+    "translation": "我常常觉得我所做的一切都无关紧要。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "28",
+    "english": "I snap at people when they do little things that irritate me.",
+    "translation": "当别人做一些让我恼怒的小事时，我会对他们发火。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "29",
+    "english": "I can't concentrate on anything.",
+    "translation": "我无法集中注意力做任何事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "30",
+    "english": "I'm an energetic person.",
+    "translation": "我是一个精力充沛的人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "31",
+    "english": "Others see me as irresponsible.",
+    "translation": "别人认为我不负责任。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "32",
+    "english": "I can be mean when I need to be.",
+    "translation": "必要时，我可以变得很刻薄。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "33",
+    "english": "My thoughts often go off in odd or unusual directions.",
+    "translation": "我的思维经常朝奇怪或不寻常的方向发展。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "34",
+    "english": "I've been told that I spend too much time making sure things are exactly in place.",
+    "translation": "有人告诉我，我花太多时间确保事物摆放得恰到好处。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "35",
+    "english": "I avoid risky sports and activities.",
+    "translation": "我避免参与危险的运动和活动。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "36",
+    "english": "I can have trouble telling the difference between dreams and waking life.",
+    "translation": "我有时候难以区分梦境和现实生活。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "37",
+    "english": "Sometimes I get this weird feeling that parts of my body feel like they're dead or not really me.",
+    "translation": "有时我会有一种奇怪的感觉，感觉身体的某些部分像是死了或不真实。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "38",
+    "english": "I am easily angered.",
+    "translation": "我很容易生气。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "39",
+    "english": "I have no limits when it comes to doing dangerous things.",
+    "translation": "做危险的事情时，我没有界限。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "40",
+    "english": "To be honest, I'm just more important than other people.",
+    "translation": "老实说，我比其他人更重要。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "41",
+    "english": "I make up stories about things that happened that are totally untrue.",
+    "translation": "我编造了一些完全不真实的事情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "42",
+    "english": "People often talk about me doing things I don't remember at all.",
+    "translation": "人们经常谈论我做的事情，而我完全不记得。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "43",
+    "english": "I do things so that people just have to admire me.",
+    "translation": "我做事就是为了让人们不得不佩服我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "44",
+    "english": "It's weird, but sometimes ordinary objects seem to be a different shape than usual.",
+    "translation": "这很奇怪，但有时普通的物体看起来形状不同于平常。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "45",
+    "english": "I don't have very long-lasting emotional reactions to things.",
+    "translation": "我对事物的情绪反应不持久。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "46",
+    "english": "It is hard for me to stop an activity, even when it’s time to do so.",
+    "translation": "即使到了该停止的时候，我也很难停止活动。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "47",
+    "english": "I'm not good at planning ahead.",
+    "translation": "我不擅长提前计划。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "48",
+    "english": "I do a lot of things that others consider risky.",
+    "translation": "我做很多别人认为有风险的事情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "49",
+    "english": "People tell me that I focus too much on minor details.",
+    "translation": "人们告诉我，我过于关注细节。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "50",
+    "english": "I worry a lot about being alone.",
+    "translation": "我非常担心独处。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "51",
+    "english": "I've missed out on things because I was busy trying to get something I was doing exactly right.",
+    "translation": "因为我忙于尝试把某件事做得完全正确，我错过了一些事情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "52",
+    "english": "My thoughts often don't make sense to others.",
+    "translation": "我的想法经常让别人感到困惑。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "53",
+    "english": "I often make up things about myself to help me get what I want.",
+    "translation": "我经常编造有关自己的事情来帮助我得到想要的东西。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "54",
+    "english": "It doesn't really bother me to see other people get hurt.",
+    "translation": "看到别人受伤并不真的让我感到困扰。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "55",
+    "english": "People often look at me as if I'd said something really weird.",
+    "translation": "人们经常看着我，好像我说了些非常奇怪的话。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "56",
+    "english": "People don't realize that I'm flattering them to get something.",
+    "translation": "人们没有意识到我是在奉承他们以得到某物。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "57",
+    "english": "I'd rather be in a bad relationship than be alone.",
+    "translation": "我宁愿处在一段不好的关系中，也不愿意独自一人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "58",
+    "english": "I usually think before I act.",
+    "translation": "我通常在行动之前会思考。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "59",
+    "english": "I often see vivid dream-like images when I'm falling asleep or waking up.",
+    "translation": "我在入睡或醒来时经常看到生动的梦幻般的图像。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "60",
+    "english": "I keep approaching things the same way, even when it isn’t working.",
+    "translation": "即使方法不奏效，我也会一直以同样的方式处理事情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "61",
+    "english": "I'm very dissatisfied with myself.",
+    "translation": "我对自己非常不满意。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "62",
+    "english": "I have much stronger emotional reactions than almost everyone else.",
+    "translation": "我的情感反应比几乎所有人都强烈。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "63",
+    "english": "I do what other people tell me to do.",
+    "translation": "我会做别人告诉我做的事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "64",
+    "english": "I can't stand being left alone, even for a few hours.",
+    "translation": "哪怕只是几个小时，我也无法忍受独自一人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "65",
+    "english": "I have outstanding qualities that few others possess.",
+    "translation": "我有一些少数人才有的卓越品质。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "66",
+    "english": "The future looks really hopeless to me.",
+    "translation": "未来在我看来真的是没有希望。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "67",
+    "english": "I like to take risks.",
+    "translation": "我喜欢冒险。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "68",
+    "english": "I can't achieve goals because other things capture my attention.",
+    "translation": "我无法实现目标，因为其他事情会吸引我的注意。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "69",
+    "english": "When I want to do something, I don't let the possibility that it might be risky stop me.",
+    "translation": "当我想做某事时，我不会因为它可能有风险而停下来。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "70",
+    "english": "Others seem to think I'm quite odd or unusual.",
+    "translation": "别人似乎认为我很奇怪或不寻常。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "71",
+    "english": "My thoughts are strange and unpredictable.",
+    "translation": "我的想法奇特且不可预测。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "72",
+    "english": "I don't care about other people's feelings.",
+    "translation": "我不关心别人的感受。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "73",
+    "english": "You need to step on some toes to get what you want in life.",
+    "translation": "在生活中，要得到你想要的东西，有时需要踩到别人的脚趾。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "74",
+    "english": "I love getting the attention of other people.",
+    "translation": "我喜欢得到别人的注意。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "75",
+    "english": "I go out of my way to avoid any kind of group activity.",
+    "translation": "我特意避开任何形式的团体活动。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "76",
+    "english": "I can be sneaky if it means getting what I want.",
+    "translation": "如果这意味着能得到我想要的东西，我可以变得狡猾。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "77",
+    "english": "Sometimes when I look at a familiar object, it's somehow like I'm seeing it for the first time.",
+    "translation": "有时当我看着一个熟悉的物体时，感觉就像是我第一次看到它。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "78",
+    "english": "It is hard for me to shift from one activity to another.",
+    "translation": "我很难从一项活动转换到另一项。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "79",
+    "english": "I worry a lot about terrible things that might happen.",
+    "translation": "我非常担心可能发生的可怕事情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "80",
+    "english": "I have trouble changing how I’m doing something even if what I’m doing isn't going well.",
+    "translation": "即使我做的不顺利，我也很难改变做事的方式。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "81",
+    "english": "The world would be better off if I were dead.",
+    "translation": "如果我死了，世界会更好。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "82",
+    "english": "I keep my distance from people.",
+    "translation": "我与人保持距离。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "83",
+    "english": "I often can't control what I think about.",
+    "translation": "我经常无法控制自己的思考。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "84",
+    "english": "I don't get emotional.",
+    "translation": "我不会情绪化。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "85",
+    "english": "I resent being told what to do, even by people in charge.",
+    "translation": "即使是上级，我也不喜欢别人告诉我该做什么。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "86",
+    "english": "I'm so ashamed by how I've let people down in lots of little ways.",
+    "translation": "我为自己在许多小事上让人失望感到非常羞愧。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "87",
+    "english": "I avoid anything that might be even a little bit dangerous.",
+    "translation": "我避开任何可能有一点危险的事情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "88",
+    "english": "I have trouble pursuing specific goals even for short periods of time.",
+    "translation": "即使是短时间，我也难以追求特定的目标。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "89",
+    "english": "I prefer to keep romance out of my life.",
+    "translation": "我更喜欢让我的生活中没有浪漫。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "90",
+    "english": "I would never harm another person.",
+    "translation": "我绝不会伤害别人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "91",
+    "english": "I don't show emotions strongly.",
+    "translation": "我不会强烈地表达情感。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "92",
+    "english": "I have a very short temper.",
+    "translation": "我脾气很暴躁。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "93",
+    "english": "I often worry that something bad will happen due to mistakes I made in the past.",
+    "translation": "我经常担心过去的错误会导致不好的事情发生。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "94",
+    "english": "I have some unusual abilities, like sometimes knowing exactly what someone is thinking.",
+    "translation": "我有一些不寻常的能力，比如有时候能准确知道别人在想什么。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "95",
+    "english": "I get very nervous when I think about the future.",
+    "translation": "我在想到未来时会非常紧张。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "96",
+    "english": "I rarely worry about things.",
+    "translation": "我很少担心事情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "97",
+    "english": "I enjoy being in love.",
+    "translation": "我喜欢恋爱的感觉。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "98",
+    "english": "I prefer to play it safe rather than take unnecessary chances.",
+    "translation": "我更喜欢保守行事，不愿意冒不必要的风险。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "99",
+    "english": "I sometimes have heard things that others couldn't hear.",
+    "translation": "我有时会听到别人听不到的声音。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "100",
+    "english": "I get fixated on certain things and can't stop.",
+    "translation": "我会对某些事情着迷，无法停止。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "101",
+    "english": "People tell me it's difficult to know what I’m feeling.",
+    "translation": "人们告诉我，很难知道我在感受什么。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "102",
+    "english": "I am a highly emotional person.",
+    "translation": "我是一个非常情绪化的人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "103",
+    "english": "Others would take advantage of me if they could.",
+    "translation": "如果可能，别人会利用我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "104",
+    "english": "I often feel like a failure.",
+    "translation": "我经常感觉自己是个失败者。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "105",
+    "english": "If something I do isn't absolutely perfect, it's simply not acceptable.",
+    "translation": "如果我做的事情不是绝对完美的，那就是不可接受的。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "106",
+    "english": "I often have unusual experiences, such as sensing the presence of someone who isn't actually there.",
+    "translation": "我经常有不寻常的经历，比如感觉到实际上并不存在的人的存在。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "107",
+    "english": "I'm good at making people do what I want them to do.",
+    "translation": "我擅长让人们按照我的想法行事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "108",
+    "english": "I break off relationships if they start to get close.",
+    "translation": "如果关系开始变得亲密，我会断绝关系。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "109",
+    "english": "I'm always worrying about something.",
+    "translation": "我总是在担心某事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "110",
+    "english": "I worry about almost everything.",
+    "translation": "我几乎什么都担心。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "111",
+    "english": "I like standing out in a crowd.",
+    "translation": "我喜欢在人群中脱颖而出。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "112",
+    "english": "I don't mind a little risk now and then.",
+    "translation": "偶尔冒一点险，我不介意。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "113",
+    "english": "My behavior is often bold and grabs peoples' attention.",
+    "translation": "我的行为常常大胆，能吸引人们的注意。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "114",
+    "english": "I'm better than almost everyone else.",
+    "translation": "我比几乎所有人都要好。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "115",
+    "english": "People complain about my need to have everything all arranged.",
+    "translation": "人们抱怨我需要把一切都安排妥当。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "116",
+    "english": "I always make sure I get back at people who wrong me.",
+    "translation": "我总是确保对那些伤害我的人进行报复。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "117",
+    "english": "I'm always on my guard for someone trying to trick or harm me.",
+    "translation": "我总是警惕着别人试图欺骗或伤害我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "118",
+    "english": "I have trouble keeping my mind focused on what needs to be done.",
+    "translation": "我难以集中注意力完成需要做的事情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "119",
+    "english": "I talk about suicide a lot.",
+    "translation": "我经常谈论自杀。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "120",
+    "english": "I'm just not very interested in having sexual relationships.",
+    "translation": "我对性关系不太感兴趣。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "121",
+    "english": "I get stuck on things a lot.",
+    "translation": "我经常对事情纠结不清。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "122",
+    "english": "I get emotional easily, often for very little reason.",
+    "translation": "我很容易情绪化，往往无缘无故。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "123",
+    "english": "Even though it drives other people crazy, I insist on absolute perfection in everything I do.",
+    "translation": "尽管这让其他人疯狂，我坚持在我做的每件事中追求绝对的完美。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "124",
+    "english": "I almost never feel happy about my day-to-day activities.",
+    "translation": "我几乎从不对日常活动感到快乐。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "125",
+    "english": "Sweet-talking others helps me get what I want.",
+    "translation": "甜言蜜语帮助我得到我想要的东西。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "126",
+    "english": "Sometimes you need to exaggerate to get ahead.",
+    "translation": "有时你需要夸大其词以取得进展。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "127",
+    "english": "I fear being alone in life more than anything else.",
+    "translation": "我最害怕的是一生孤独。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "128",
+    "english": "I get stuck on one way of doing things, even when it's clear it won't work.",
+    "translation": "即使明知不可行，我也会固执地坚持一种做法。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "129",
+    "english": "I'm often pretty careless with my own and others' things.",
+    "translation": "我经常对自己和别人的东西不够小心。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "130",
+    "english": "I am a very anxious person.",
+    "translation": "我是一个非常焦虑的人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "131",
+    "english": "People are basically trustworthy.",
+    "translation": "基本上，人们是值得信赖的。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "132",
+    "english": "I am easily distracted.",
+    "translation": "我很容易分心。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "133",
+    "english": "It seems like I'm always getting a 'raw deal' from others.",
+    "translation": "我总感觉别人对我不公。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "134",
+    "english": "I don't hesitate to cheat if it gets me ahead.",
+    "translation": "如果能让我取得优势，我不会犹豫作弊。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "135",
+    "english": "I check things several times to make sure they are perfect.",
+    "translation": "我会反复检查事情以确保它们是完美的。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "136",
+    "english": "I don't like spending time with others.",
+    "translation": "我不喜欢和别人共度时光。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "137",
+    "english": "I feel compelled to go on with things even when it makes little sense to do so.",
+    "translation": "即使继续下去没有多大意义，我也感觉被迫要继续。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "138",
+    "english": "I never know where my emotions will go from moment to moment.",
+    "translation": "我永返不知道我的情绪会如何变化。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "139",
+    "english": "I have seen things that weren't really there.",
+    "translation": "我看到了一些实际上不存在的东西。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "140",
+    "english": "It is important to me that things are done in a certain way.",
+    "translation": "对我来说，按照特定的方式做事很重要。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "141",
+    "english": "I always expect the worst to happen.",
+    "translation": "我总是期待最糟糕的事情发生。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "142",
+    "english": "I try to tell the truth even when it's hard.",
+    "translation": "即使困难，我也试图说出真相。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "143",
+    "english": "I believe that some people can move things with their minds.",
+    "translation": "我相信有些人可以用思想移动物体。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "144",
+    "english": "I can't focus on things for very long.",
+    "translation": "我无法长时间专注于事物。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "145",
+    "english": "I steer clear of romantic relationships.",
+    "translation": "我避开浪漫关系。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "146",
+    "english": "I'm not interested in making friends.",
+    "translation": "我对交朋友不感兴趣。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "147",
+    "english": "I say as little as possible when dealing with people.",
+    "translation": "我在和人打交道时尽可能少说话。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "148",
+    "english": "I'm useless as a person.",
+    "translation": "作为一个人，我毫无用处。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "149",
+    "english": "I'll do just about anything to keep someone from abandoning me.",
+    "translation": "为了防止别人抛弃我，我几乎什么都愿意做。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "150",
+    "english": "Sometimes I can influence other people just by sending my thoughts to them.",
+    "translation": "有时候我可以通过向别人发送我的思想来影响他们。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "151",
+    "english": "Life looks pretty bleak to me.",
+    "translation": "生活在我看来非常暗淡。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "152",
+    "english": "I think about things in odd ways that don't make sense to most people.",
+    "translation": "我以大多数人无法理解的奇怪方式思考问题。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "153",
+    "english": "I don't care if my actions hurt others.",
+    "translation": "我不在乎我的行为是否伤害了别人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "154",
+    "english": "Sometimes I feel 'controlled' by thoughts that belong to someone else.",
+    "translation": "有时我感觉被别人的思想'控制'了。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "155",
+    "english": "I really live life to the fullest.",
+    "translation": "我真正地充分地活着。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "156",
+    "english": "I make promises that I don't really intend to keep.",
+    "translation": "我做出了一些实际上并不打算履行的承诺。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "157",
+    "english": "Nothing seems to make me feel good.",
+    "translation": "似乎没有什么能让我感觉良好。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "158",
+    "english": "I get irritated easily by all sorts of things.",
+    "translation": "各种事情都很容易让我感到恼怒。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "159",
+    "english": "I do what I want regardless of how unsafe it might be.",
+    "translation": "不管多么不安全，我都做我想做的事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "160",
+    "english": "I often forget to pay my bills.",
+    "translation": "我经常忘记支付账单。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "161",
+    "english": "I don't like to get too close to people.",
+    "translation": "我不喜欢与人过于亲近。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "162",
+    "english": "I'm good at conning people.",
+    "translation": "我擅长欺骗人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "163",
+    "english": "Everything seems pointless to me.",
+    "translation": "一切对我来说似乎都毫无意义。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "164",
+    "english": "I never take risks.",
+    "translation": "我从不冒险。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "165",
+    "english": "I get emotional over every little thing.",
+    "translation": "每一件小事都会让我情绪化。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "166",
+    "english": "It's no big deal if I hurt other peoples' feelings.",
+    "translation": "伤害别人的感情没什么大不了的。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "167",
+    "english": "I never show emotions to others.",
+    "translation": "我从不向他人展示情感。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "168",
+    "english": "I often feel just miserable.",
+    "translation": "我经常感觉非常痛苦。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "169",
+    "english": "I have no worth as a person.",
+    "translation": "作为一个人，我毫无价值。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "170",
+    "english": "I am usually pretty hostile.",
+    "translation": "我通常相当有敌意。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "171",
+    "english": "I've skipped town to avoid responsibilities.",
+    "translation": "我为了逃避责任曾逃离过城镇。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "172",
+    "english": "I've been told more than once that I have a number of odd quirks or habits.",
+    "translation": "有不止一次人告诉我，我有很多奇怪的癖好或习惯。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "173",
+    "english": "I like being a person who gets noticed.",
+    "translation": "我喜欢成为一个引人注目的人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "174",
+    "english": "I'm always fearful or on edge about bad things that might happen.",
+    "translation": "我总是对可能发生的坏事感到恐惧或紧张。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "175",
+    "english": "I never want to be alone.",
+    "translation": "我永远不想独自一人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "176",
+    "english": "I keep trying to make things perfect, even when I've gotten them as good as they're likely to get.",
+    "translation": "即使事情已经做得很好，我仍然试图使它们更完美。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "177",
+    "english": "I rarely feel that people I know are trying to take advantage of me.",
+    "translation": "我很少觉得我认识的人试图利用我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "178",
+    "english": "I know I'll commit suicide sooner or later.",
+    "translation": "我知道我迟早会自杀。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "179",
+    "english": "I've achieved far more than almost anyone I know.",
+    "translation": "我取得的成就远超我认识的几乎所有人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "180",
+    "english": "I can certainly turn on the charm if I need to get my way.",
+    "translation": "如果我需要达到目的，我肯定能够发挥魅力。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "181",
+    "english": "My emotions are unpredictable.",
+    "translation": "我的情绪是不可预测的。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "182",
+    "english": "I don't deal with people unless I have to.",
+    "translation": "除非必须，否则我不与人打交道。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "183",
+    "english": "I don't care about other peoples' problems.",
+    "translation": "我不关心别人的问题。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "184",
+    "english": "I don't react much to things that seem to make others emotional.",
+    "translation": "对于似乎让其他人情绪化的事情，我反应不大。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "185",
+    "english": "I have several habits that others find eccentric or strange.",
+    "translation": "我有几个别人觉得古怪或奇怪的习惯。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "186",
+    "english": "I avoid social events.",
+    "translation": "我避开社交活动。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "187",
+    "english": "I deserve special treatment.",
+    "translation": "我应得到特殊待遇。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "188",
+    "english": "It makes me really angry when people insult me in even a minor way.",
+    "translation": "即使是轻微的侮辱，也会让我非常生气。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "189",
+    "english": "I rarely get enthusiastic about anything.",
+    "translation": "我很少对任何事情感到热情。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "190",
+    "english": "I suspect that even my so-called 'friends' betray me a lot.",
+    "translation": "我怀疑即便是所谓的'朋友'也经常背叛我。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "191",
+    "english": "I crave attention.",
+    "translation": "我渴望注意力。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "192",
+    "english": "Sometimes I think someone else is removing thoughts from my head.",
+    "translation": "有时我觉得有人在把思想从我的脑海中抹去。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "193",
+    "english": "I have periods in which I feel disconnected from the world or from myself.",
+    "translation": "我有时会感觉与世界或自己脱节。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "194",
+    "english": "I often see unusual connections between things that most people miss.",
+    "translation": "我经常看到大多数人错过的事物之间不寻常的联系。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "195",
+    "english": "I don't think about getting hurt when I’m doing things that might be dangerous.",
+    "translation": "我在做可能危险的事情时不会考虑受伤的后果。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "196",
+    "english": "I simply won't put up with things being out of their proper places.",
+    "translation": "我无法忍受事物不在其应有的位置。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "197",
+    "english": "I often have to deal with people who are less important than me.",
+    "translation": "我经常不得不处理比我地位低的人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "198",
+    "english": "I sometimes hit people to remind them who's in charge.",
+    "translation": "我有时会打人，以提醒他们谁是老大。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "199",
+    "english": "I get pulled off-task by even minor distractions.",
+    "translation": "即使是轻微的干扰也会让我分心。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "200",
+    "english": "I enjoy making people in control look stupid.",
+    "translation": "我喜欢让掌控者看起来愚蠢。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "201",
+    "english": "I just skip appointments or meetings if I’m not in the mood.",
+    "translation": "如果我心情不好，我就会跳过约会或会议。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "202",
+    "english": "I try to do what others want me to do.",
+    "translation": "我尝试做别人希望我做的事。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "203",
+    "english": "I prefer being alone to having a close romantic partner.",
+    "translation": "我宁愿独自一人也不想有亲密的恋人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "204",
+    "english": "I am very impulsive.",
+    "translation": "我非常冲动。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "205",
+    "english": "I often have thoughts that make sense to me but that other people say are strange.",
+    "translation": "我经常有一些对我有意义但别人觉得奇怪的想法。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "206",
+    "english": "I use people to get what I want.",
+    "translation": "我利用人来得到我想要的东西。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "207",
+    "english": "I don't see the point in feeling guilty about things I've done that have hurt other people.",
+    "translation": "我不觉得为我做过的伤害他人的事情感到内疚有什么意义。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "208",
+    "english": "Most of the time I don't see the point in being friendly.",
+    "translation": "大多数时候，我觉得友好没有意义。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "209",
+    "english": "I've had some really weird experiences that are very difficult to explain.",
+    "translation": "我有过一些非常难以解释的奇怪经历。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "210",
+    "english": "I follow through on commitments.",
+    "translation": "我会坚守承诺。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "211",
+    "english": "I like to draw attention to myself.",
+    "translation": "我喜欢吸引别人的注意。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "212",
+    "english": "I feel guilty much of the time.",
+    "translation": "大部分时间我都感到内疚。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "213",
+    "english": "I often 'zone out' and then suddenly come to and realize that a lot of time has passed.",
+    "translation": "我经常发呆，然后突然回过神来，意识到已经过去了很长时间。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "214",
+    "english": "Lying comes easily to me.",
+    "translation": "对我来说，撒谎很容易。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "215",
+    "english": "I hate to take chances.",
+    "translation": "我讨厌冒险。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "216",
+    "english": "I'm nasty and short to anybody who deserves it.",
+    "translation": "对于那些应得的人，我会态度恶劣和简短。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "217",
+    "english": "Things around me often feel unreal, or more real than usual.",
+    "translation": "我周围的事物经常感觉不真实，或比平时更真实。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "218",
+    "english": "I'll stretch the truth if it's to my advantage.",
+    "translation": "如果对我有利，我会夸大事实。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "219",
+    "english": "It is easy for me to take advantage of others.",
+    "translation": "我很容易利用别人。",
+    "options": [0,1,2,3]
+},
+{
+    "item": "220",
+    "english": "I have a strict way of doing things.",
+    "translation": "我有一套严格的做事方式。",
+    "options": [0,1,2,3]
+}
+
+    ]
+}

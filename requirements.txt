@@ -1,0 +1,6 @@
+json
+PyQt6
+numpy
+matplotlib
+reportlab
+pillow
