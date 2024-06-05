@@ -27,12 +27,12 @@ class StartDialog(QDialog):
         return self.id_input.text()
 
 
-class SurveyApp(QWidget):
+class Survey(QWidget):
     def __init__(self, filename):
         super().__init__()
 
         self.setWindowTitle("DSM-5人格量表 (PID-5)")
-        self.setGeometry(100, 100, 600, 600)
+        self.setGeometry(100, 100, 900, 900)
         self.current_page = 0
         self.questions_per_page = 10
 
@@ -149,10 +149,10 @@ def main():
     dialog = StartDialog()
     if dialog.exec():
         user_id = dialog.get_id()
-        main_window = SurveyApp('PID-5.json')
+        main_window = Survey('PID-5.json')
         main_window.user_id = user_id
         main_window.show()
-        main_window.show_page(main_window.current_page)  # Ensure the first page is displayed right after the dialog.
+        main_window.show_page(main_window.current_page)
         sys.exit(app.exec())
 
 

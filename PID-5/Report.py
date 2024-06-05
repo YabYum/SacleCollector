@@ -9,7 +9,6 @@ from reportlab.pdfbase import pdfmetrics
 from matplotlib.font_manager import FontProperties
 
 
-
 # set Chinese fonts manually
 font_path_regular = 'font/NotoSansSC-Regular.ttf'
 font_path_bold = 'font/NotoSansSC-Bold.ttf'
