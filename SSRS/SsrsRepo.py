@@ -34,15 +34,15 @@ class ReportGenerator:
         """Retrieve the event description from data."""
         for question in self.data['questions']:
             if question['item'] == str(item_number):
-                return question['description']
+                return question['brief']
         return None
     
     def scorer(self):
-        for i in range(13):
-            total = self.num_response[i].value
-        obj = self.num_response[1].value + self.num_response[12].value + self.num_response[13].value
-        sub = self.num_response[0].value + self.num_response[2].value + self.num_response[3].value + self.num_response[4].value + self.num_response[5].value + self.num_response[6].value + self.num_response[7].value + self.num_response[8].value
-        ult = self.num_response[9].value + self.num_response[10].value + self.num_response[11].value
+        total = sum(self.num_response.values())
+        obj = self.num_response["2"] + self.num_response["13"] + self.num_response["14"]
+        sub = (self.num_response["1"] + self.num_response["3"] + self.num_response["4"] + self.num_response["5"] +
+               self.num_response["6"] + self.num_response["7"] + self.num_response["8"] + self.num_response["9"])
+        ult = self.num_response["10"] + self.num_response["11"] + self.num_response["12"]
         return total, obj, sub, ult
 
     def generate_pdf(self, font_size=8):
@@ -66,9 +66,9 @@ class ReportGenerator:
         pdf.drawString(column1_x, y_position, '您的回答: ')
         pdf.setFont("NotoSansSC", font_size)
         y_position -= font_size * 3
-            
-        for item, answer in self.responses:
-            pdf.drawString(column1_x, y_position, f'{self.description(item)}, : , {answer}')
+
+        for item, answer in self.responses.items():
+            pdf.drawString(column1_x, y_position, f'{self.description(item)}  :   {answer}')
             y_position -= font_size * 1.8
 
         pdf.setFont("NotoSansSC-b", font_size)
@@ -87,6 +87,10 @@ class ReportGenerator:
         y_position -= font_size * 3
         pdf.drawString(column1_x, y_position, "对社会支持的利用度是指个体对可获取的社会支持的利用意愿")
 
-
-        
         pdf.save()
+
+
+response = {'1': '一个也没有', '2': '住处经常变动，多数时间和陌生人住在一起', '3': '相互之间从不关心，只是点头之交', '4': '遇到困难可能会稍微关心', '5': '极少', '6': '全力支持', '7': '无', '8': '极少', '9': '极少', '10': '只向关系极为密切的1-2人倾诉', '14': '3-5个', '13': '3-5个', '12': '经常参加', '11': '只靠自己，不接受别人帮助'}
+num_res = {'1': 1, '2': 2, '3': 1, '4': 2, '5': 2, '6': 4, '7': 1, '8': 2, '9': 2, '10': 2, '14': 3, '13': 3, '12': 3, '11': 1}
+rep = ReportGenerator(1,num_res,response,'SSRS.json')
+rep.generate_pdf()
