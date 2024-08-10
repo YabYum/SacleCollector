@@ -94,10 +94,8 @@ class Survey(QWidget):
         question_frame = QFrame()
         question_layout = QVBoxLayout()
 
-        label_cn = QLabel(f"{question['item']}. {question['translation']}")
-        label_en = QLabel(f" {question['english']}")
-        question_layout.addWidget(label_cn)
-        question_layout.addWidget(label_en)
+        label = QLabel(f"{question['item']}. {question['description']}")
+        question_layout.addWidget(label)
 
         combo_box = QComboBox()
         combo_box.addItem("请选择最符合的一项", None)
@@ -125,6 +123,19 @@ class Survey(QWidget):
     def submit_answers(self):
         print("问卷采集已完成！")
         print("Responses:", self.responses)
+
+        mapping = {"一个也没有": 1, "1-2个": 2, "3-5个": 3, "6个或以上": 4,
+                   "远离家人，且独居一室": 1, "住处经常变动，多数时间和陌生人住在一起": 2,"和同学、同事或朋友住在一起": 3, "和家人住在一起": 4,
+                   "相互之间从不关心，只是点头之交": 1,"遇到困难可能会稍微关心": 2,"有些人很关心您": 3,"大多数人都很关心您": 4,
+                   "无": 1,"极少": 2,"一般": 3,"全力支持": 4,
+                   "从不向任何人倾诉": 1,"只向关系极为密切的1-2人倾诉": 2,"如果朋友主动询问会说出来": 3,"主动倾诉自己的烦恼以获得支持和理解": 4,
+                   "只靠自己，不接受别人帮助": 1,"很少请求别人帮助": 2,"有时请求别人帮助": 3,"有困难时经常向亲友、组织求援": 4,
+                   "从不参加": 1,"偶尔参加": 2,"经常参加": 3,"主动参加并积极活动": 4,
+                   }
+        num_responses = {key: mapping[value] for key, value in self.responses.items()}
+        print(num_responses)
+
+        
 
         self.close()
 
